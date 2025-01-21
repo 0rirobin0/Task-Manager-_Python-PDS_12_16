@@ -1,4 +1,4 @@
-Task Title,Description,Priority Level,Deadline,Status
+Title,Description,Priority,Deadline,Status
 Finish Project Report,Complete the final report for the project.,High,2025-01-25,Pending
 Buy Groceries,Buy groceries for the week including fruits and vegetables.,Medium,2025-01-22,In Progress
 Prepare Presentation,Prepare a presentation for tomorrow's meeting.,High,2025-01-21,Pending
@@ -10,7 +10,7 @@ Submit Tax Documents,Submit the required tax documents to the accountant.,High,2
 Exercise,Go for a run or do home exercises.,Low,2025-01-22,Completed
 Review Code,Review the code submitted by the junior developer.,High,2025-01-23,In Progress
 Schedule Doctor's Appointment,Book an appointment with the doctor for next week.,Low,2025-01-27,Pending
-Plan Vacation,Start planning the summer vacation, including destinations.,Medium,2025-02-15,Pending
+Plan Vacation,Start planning the summer vacation, including destinations.,Medium,2025-02-15
 Update Resume,Update resume with the latest job experiences and skills.,High,2025-01-28,Pending
 Reply to Emails,Respond to all emails that have been flagged.,Medium,2025-01-22,In Progress
 Submit Assignment,Complete and submit the university assignment.,High,2025-01-20,Completed
@@ -57,3 +57,4 @@ Review Test Results,Review the results from recent software testing.,Medium,2025
 Prepare for Presentation,Prepare slides and talking points for the upcoming conference.,High,2025-01-25,Pending
 Create Financial Forecast,Prepare the financial forecast for the next quarter.,High,2025-01-30,In Progress
 Complete User Research,Conduct user research for the next product iteration.,Medium,2025-02-01,Pending
+
