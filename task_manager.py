@@ -64,6 +64,7 @@ def update_task_status(tasks):
 def display_Tasks(tasks):
     for task in tasks:
         print(task)
+
 # Display reminders
 def display_reminders(tasks):
     today = datetime.today().date()
@@ -120,7 +121,7 @@ def filter_tasks(tasks):
 def main():
     file_name = "task_manager_dataset.csv"
     tasks = load_tasks_from_file(file_name)
-    print(f"{len(tasks)}")
+    
 
     while True:
         print("\nTask Manager Menu:")
